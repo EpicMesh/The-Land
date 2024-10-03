@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|d:\\udemy\\complete_unity_game_developer_3d\\the land\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|d:\\udemy\\complete_unity_game_developer_3d\\the land\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\assets\\scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|d:\\udemy\\complete_unity_game_developer_3d\\the land\\assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|d:\\udemy\\complete_unity_game_developer_3d\\the land\\assets\\scripts\\deathhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5AEA8-5EC8-C208-82B9-EE9EE374E8C4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "DeathHandler.cs",
+              "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\DeathHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathHandler.cs",
+              "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\DeathHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:46:29.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealth.cs",
               "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T18:24:48.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:43:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:16:51.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoader.cs",
+              "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:42:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAttack.cs",
+              "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:48:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
@@ -47,21 +128,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:26:33.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyAI.cs",
-              "DocumentMoniker": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyAI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
-              "ToolTip": "D:\\Udemy\\Complete_Unity_Game_Developer_3D\\The Land\\Assets\\Scripts\\EnemyAI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T15:43:57.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T18:26:33.201Z"
             }
           ]
         }
