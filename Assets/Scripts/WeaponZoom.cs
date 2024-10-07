@@ -6,6 +6,7 @@ using UnityStandardAssets.Characters.FirstPerson;
 public class WeaponZoom : MonoBehaviour
 {
     [SerializeField] Camera cam;
+    [SerializeField] RigidbodyFirstPersonController fpsController;
     [SerializeField] float zoomedOutFOV = 60f;
     [SerializeField] float zoomedInFOV = 20f;
     [SerializeField] float zoomedOutSensitivity = 2f;
@@ -13,11 +14,9 @@ public class WeaponZoom : MonoBehaviour
 
     bool zoomedInToogle = false;
 
-    RigidbodyFirstPersonController fpsController;
-
-    private void Start()
+    private void OnDisable()
     {
-        fpsController = GetComponent<RigidbodyFirstPersonController>();
+        ZoomOut();
     }
 
     void Update()
@@ -25,19 +24,30 @@ public class WeaponZoom : MonoBehaviour
         if (Input.GetMouseButtonDown(1))
         {
             if (zoomedInToogle == false)
-            {   
-                zoomedInToogle=true;
-                cam.fieldOfView = zoomedInFOV;
-                fpsController.mouseLook.XSensitivity = zoomedInSensitivity;
-                fpsController.mouseLook.YSensitivity = zoomedInSensitivity;
+            {
+                ZoomIn();
             }
             else
             {
-                zoomedInToogle = false;
-                cam.fieldOfView = zoomedOutFOV;
-                fpsController.mouseLook.XSensitivity = zoomedOutSensitivity;
-                fpsController.mouseLook.YSensitivity = zoomedOutSensitivity;
+                ZoomOut();
             }
         }
-    }
+
+      
+    }  
+        public void ZoomIn()
+        {
+            zoomedInToogle = true;
+            cam.fieldOfView = zoomedInFOV;
+            fpsController.mouseLook.XSensitivity = zoomedInSensitivity;
+            fpsController.mouseLook.YSensitivity = zoomedInSensitivity;
+        }
+
+        public void ZoomOut()
+        {
+            zoomedInToogle = false;
+            cam.fieldOfView = zoomedOutFOV;
+            fpsController.mouseLook.XSensitivity = zoomedOutSensitivity;
+            fpsController.mouseLook.YSensitivity = zoomedOutSensitivity;
+        }
 }

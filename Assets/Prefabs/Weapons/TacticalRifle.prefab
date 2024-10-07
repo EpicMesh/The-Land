@@ -219,6 +219,8 @@ MonoBehaviour:
   muzzleFlash: {fileID: 0}
   hitEffect: {fileID: 0}
   ammoSlot: {fileID: 0}
+  ammoType: 1
+  timeBetweenShots: 0.5
 --- !u!1001 &550090694190437966
 PrefabInstance:
   m_ObjectHideFlags: 0
